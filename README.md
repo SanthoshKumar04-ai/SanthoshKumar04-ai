@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar N</h1>
-<h3 align="center">I am an engineering student specializing in Artificial Intelligence and Machine Learning. . Alongside my studies, I am also a Full Stack Developer, with a strong foundation in both front-end and back-end development. .I have hands-on experience in a variety of programming languages, including Python, JavaScript, and Java.My web development skills are complemented by my expertise in React, Spring,Hibernate and databases like MySQL and MongoDB.</h3>
+<h3 align="left">I am an engineering student specializing in Artificial Intelligence and Machine Learning. . Alongside my studies, I am also a Full Stack Developer, with a strong foundation in both front-end and back-end development. .I have hands-on experience in a variety of programming languages, including Python, JavaScript, and Java.My web development skills are complemented by my expertise in React, Spring,Hibernate and databases like MySQL and MongoDB.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumar04-ai&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar04-ai" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=santhoshkumar04-ai&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar04-ai" /> </p>
 
 - 🌱 I’m currently learning **fullstack develpement**
 
